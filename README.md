@@ -11,6 +11,6 @@ How can images be stored in a CSV file ? The spectrograph images were converted 
   <li>1,0,0,0 is squiggle</li>
   <li>0,1,0,0 is Narrow-band signal</li>
   <li>0,0,1,0 is Noise</li>
-  <li>0,0,0,1 is Narrow-band-drd signal<li>
+  <li>0,0,0,1 is Narrow-band-drd signal</li>
 </ul>
-The dataset is very lagre. I added as much as possible but `training/images` is misssing due to its huge size.I added all other part of the data except this one. The total dataset can be found <a href='https://drive.google.com/open?id=13L9jFnThO7lxBsToQkQZ9TUYazIK9mWR'>here</a>, in the drive link. I provided the source code.
+The dataset is very large. I added as much as possible but `training/images` is misssing due to its huge size.I added all other part of the data except this one. The total dataset can be found <a href='https://drive.google.com/open?id=13L9jFnThO7lxBsToQkQZ9TUYazIK9mWR'>here</a>, in the drive link. I provided the source code.
